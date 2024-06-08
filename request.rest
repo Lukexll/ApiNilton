@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/services
+Content-Type: application/json
+
+{
+    "name": "algum",
+    "description": "algum",
+    "price": 350,
+    "image": "https://wallpaperaccess.com/full/2545764.jpg",
+}
